@@ -1,14 +1,11 @@
 <?php
-namespace Appsolute\OpenPgp;
+//namespace Api\Controller\Component\Pgp;
 
-/*
-You can delete this hamfri
-include_once('phpseclib/Crypt/AES.php');
+/*include_once('phpseclib/Crypt/AES.php');
 include_once('phpseclib/Crypt/Blowfish.php');
 include_once('phpseclib/Crypt/TripleDES.php');
 include_once('phpseclib/Crypt/Twofish.php');
-include_once('phpseclib/Crypt/Random.php');
-*/
+include_once('phpseclib/Crypt/Random.php');*/
 
 use phpseclib\Crypt\AES as Crypt_AES;
 use phpseclib\Crypt\Blowfish as Crypt_Blowfish;

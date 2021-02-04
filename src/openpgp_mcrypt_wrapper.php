@@ -1,5 +1,5 @@
 <?php
-namespace Appsolute\OpenPgp;
+//namespace Api\Controller\Component\Pgp;
 
 if(function_exists('mcrypt_encrypt') && defined('MCRYPT_MODE_CFB')) {
   class MCryptWrapper {

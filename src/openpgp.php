@@ -1,6 +1,5 @@
 <?php
-namespace Appsolute\OpenPgp;
-
+//namespace Api\Controller\Component\Pgp;
 //use \IteratorAggregate;
 //use \ArrayAccess;
 //use \ArrayIterator;
@@ -19,7 +18,7 @@ namespace Appsolute\OpenPgp;
 //////////////////////////////////////////////////////////////////////////////
 // OpenPGP utilities
 //include "../../../../../vendor/autoload.php";
-// hamfri @include_once "../../../../../../vendor/autoload.php";
+@include_once "../../../../../../vendor/autoload.php";
 /**
  * @see http://tools.ietf.org/html/rfc4880
  */
